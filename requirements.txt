@@ -8,3 +8,8 @@ langchain-community
 langchain-openai
 chromadb
 tiktoken
+langchain-text-splitters
+sentence-transformers
+langchain-ollama
+
+requests
