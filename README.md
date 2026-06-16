@@ -308,6 +308,8 @@ What patient safety risks are mentioned in the documents?
 * Streamlit user interface
 * Zero API cost implementation
 
+---
+##
 Live App Link: https://healthcare-rag-application.streamlit.app/
 ---
 
